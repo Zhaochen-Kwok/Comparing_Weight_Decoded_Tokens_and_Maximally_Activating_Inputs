@@ -26,9 +26,9 @@ The analysis focuses on neuron-level agreement, token-category distributions, an
 
 ## 🧠 Key Research Questions
 
-- To what extent do activation-based and weight-geometry methods agree on neuron–token selectivity?
-- How does this agreement vary across neurons, layers, and model depth?
-- What are the strengths and limitations of token-level interpretability when relying on a single method?
+- RQ1: How large is the overlap between activation-based and weight-based token selectiv- ity?
+- RQ2: How stable is the agreement across model depth (e.g., early vs. late layers)?
+- RQ3: Do certain neurons exhibit consistently high alignment between activation-based and weight-based interpretations?
 
 ---
 
